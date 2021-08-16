@@ -1,0 +1,11 @@
+{
+  "name": "BoogiePizza",
+  "addons": [
+    "logentries"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
