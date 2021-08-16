@@ -16,16 +16,14 @@
 *.iws
 *.iml
 *.ipr
-.DS_Store
 /out/
 
 ### NetBeans ###
 /nbproject/private/
-/build/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
-
-node_modules
-/src/main/resources/static/js/
+docs/gradle-getting-started
+docs/tmp
+.vscode/
